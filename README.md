@@ -71,3 +71,6 @@ Make sure you have the following installed:
 2. Sign up for a new account or log in with an existing account.
 3. Create, update, delete, and manage your tasks using the intuitive interface.
 
+![Screenshot 2024-06-16 194358](https://github.com/finasusn/to-do-task/assets/150430510/c719bdce-daea-4c54-8c6e-d5f9505ac3f9)
+![Screenshot 2024-06-16 194345](https://github.com/finasusn/to-do-task/assets/150430510/a7a57705-eb46-4892-bfd5-f67747dddfd2)
+![Screenshot 2024-06-16 195408](https://github.com/finasusn/to-do-task/assets/150430510/de1cd6a3-9a56-4f2b-bf3d-20fe81c36d03)
